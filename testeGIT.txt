@@ -1,0 +1,5 @@
+Este é um arquivo de teste 
+para verificar as funcionalidades do GIT.
+15022018
+
+
